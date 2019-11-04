@@ -92,6 +92,24 @@ Walkerら（2002）によると、運動スキルの固定効果は睡眠（特�
     - [「休憩なし」は本当に非効率。“たった10秒” 休むだけで学習が加速する。](https://studyhacker.net/skill-rest)
     - [Mariene Bonstrup, et al. (2019) Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(19)30219-2)
 
+### 運動学習におけるフィードバックの効果
+付加フィードバックは、運動学習やパフォーマンスにおいて重要な要因として位置づけられている
+
+付加フィードバックとは、何らかの人工的手段によって学習者に戻される情報であり、代表的なものにKR（Knowledge of results）がある
+
+KRとは、行動の結果に対する言語教示や記録の表示などのことであり、学習者はこれらの情報を手がかりとして目標値と結果の誤差を把握し、誤差を減少させるための修正を行いながらスキルを進歩させていく
+
+従来は、このKRの提示頻度を高めることが運動学習を促進させると考えられてきた（Schmidt, 1975）が、最近の研究では、高頻度のKRはむしろ学習を阻害するという結果を得ている
+
+Winstein & Schmidt（1990）は、習得期に与えるKRの頻度を100％（毎施行後にKRを与える条件）と50％（2試行ごとに一回の割合でKRを与える条件）に設定し、パフォーマンスを比較する実験を行った
+
+その結果、50％KR条件のほうが100％KR条件よりもパフォーマンスが優れていることがわかった
+
+- 参考:
+    - [Miki Toyama (2013) The Japanese Journal of Psychology; 84(4); 436-442](https://www.jstage.jst.go.jp/article/jjpsy/84/4/84_436/_pdf)
+    - [Schmidt, R. A. (1975) Psychological Review; 82(4); 225-260](https://psycnet.apa.org/record/1975-26710-001)
+    - [Winstein, C. J., Schmidt, R. A. (1990) Journal of Experimental Psychology; 16(4); 677-691](https://psycnet.apa.org/record/1990-27364-001)
+
 ### まとめ
 ![learning.svg](./img/learning.svg)
 
