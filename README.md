@@ -86,3 +86,6 @@ Walkerら（2002）によると、運動スキルの固定効果は睡眠（特�
 - 参考:
     - [「休憩なし」は本当に非効率。“たった10秒” 休むだけで学習が加速する。](https://studyhacker.net/skill-rest)
     - [Mariene Bonstrup, et al. (2019) Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(19)30219-2)
+
+### まとめ
+![learning.svg](./img/learning.svg)
